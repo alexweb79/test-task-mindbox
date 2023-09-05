@@ -17,7 +17,7 @@ The project must be started with the command npm i && npm run start
 The project is available on GitHub Pages/Vercel/etc.
 
 ## Demo
-https://alexweb79.github.io/
+https://alexweb79.github.io/test-task-mindbox/
 
 ## Usage
 
