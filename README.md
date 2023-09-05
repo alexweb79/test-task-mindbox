@@ -16,6 +16,9 @@ The key functionality in your opinion is necessarily covered by tests
 The project must be started with the command npm i && npm run start
 The project is available on GitHub Pages/Vercel/etc.
 
+## Demo
+https://alexweb79.github.io/
+
 ## Usage
 
 ### Starter files
